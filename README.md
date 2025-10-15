@@ -9,7 +9,7 @@
 
 | Nome                | Função / Papel           |
 |---------------------|--------------------------|
-| Maikel R. Marquardt | [Integrante do grupo]    |
+| Maikel R. Marquardt | Integrante do grupo      |
 | Beltrano Oliveira   | [Descrever função]       |
 | Ciclana Santos      | [Descrever função]       |
 | [Adicionar mais]    |                          |
@@ -77,7 +77,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ## 2) Definição & Síntese
 
-> Responsáveis: [Nome(s)]
+> Responsável: Maikel R. Marquardt
 
 ### ✅ Personas
 
