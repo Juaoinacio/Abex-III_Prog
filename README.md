@@ -171,7 +171,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
-## 2) Definição & Síntese
+## 2) Definição & Síntese - Todos os Arquivos anexados no diretório FILES
 
 > Responsável: Maikel Ruan Marquardt
 
@@ -187,20 +187,20 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
-### 🔹 Agrupamento de Dados (Affinity Map, etc.)
+### ✅� Agrupamento de Dados (Affinity Map, etc.)
 
 - Técnicas de categorização aplicadas
 - Evidências de agrupamento
 
 ---
 
-### 🔹 Insights Principais
+### ✅ Insights Principais
 
 - [Listar os principais aprendizados da imersão]
 
 ---
 
-### 🔹 Definição do Problema
+### ✅ Definição do Problema
 
 > Formato: **"Como podemos [ajudar quem] a [fazer o quê] de forma [como]?"**
 
