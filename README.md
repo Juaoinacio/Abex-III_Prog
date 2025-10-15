@@ -173,15 +173,15 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ## 2) Definição & Síntese
 
-> Responsáveis: [Nome(s)]
+> Responsável: Maikel Ruan Marquardt
 
-### 🔹 Personas
+### ✅ Personas
 
 - [Inserir personas com imagens ou descrições]
 
 ---
 
-### 🔹 Jornada do Usuário
+### ✅ Jornada do Usuário
 
 - [Fluxos, mapas de jornada, experiências do usuário]
 
@@ -206,7 +206,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
-### 🔹 Requisitos
+### ✅ Requisitos
 
 - Funcionais:
   - [ ]
