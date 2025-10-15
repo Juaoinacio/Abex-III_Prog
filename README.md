@@ -187,7 +187,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
-### ✅� Agrupamento de Dados (Affinity Map, etc.)
+### ✅ Agrupamento de Dados (Affinity Map, etc.)
 
 - Técnicas de categorização aplicadas
 - Evidências de agrupamento
