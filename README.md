@@ -9,7 +9,7 @@
 
 | Nome                | Função / Papel           |
 |---------------------|--------------------------|
-| Fulano da Silva     | [Descrever função]       |
+| Maikel R. Marquardt | [Integrante do grupo]    |
 | Beltrano Oliveira   | [Descrever função]       |
 | Ciclana Santos      | [Descrever função]       |
 | [Adicionar mais]    |                          |
@@ -79,7 +79,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 > Responsáveis: [Nome(s)]
 
-### 🔹 Personas
+### ✅ Personas
 
 - [Inserir personas com imagens ou descrições]
 
@@ -110,7 +110,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
-### 🔹 Requisitos
+### ✅ Requisitos
 
 - Funcionais:
   - [ ]
