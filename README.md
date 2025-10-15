@@ -6,13 +6,11 @@
 ---
 
 ## 👥 Equipe
-
-| Nome                | Função / Papel           |
-|---------------------|--------------------------|
-| Maikel R. Marquardt | Integrante do grupo      |
-| Beltrano Oliveira   | [Descrever função]       |
-| Ciclana Santos      | [Descrever função]       |
-| [Adicionar mais]    |                          |
+| Nome                           | Função / Papel                   |
+|--------------------------------|---------------------------------|
+| João Inacio Fussieger Izaias   | Responsável pelo         |
+| Maikel Ruan Marquardt          | Responsável pelo  |
+| Gustavo Henrique Caxambú       | Responsável pelo          |
 
 ---
 
@@ -24,11 +22,31 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ## 1) Imersão & Empatia
 
-> Responsáveis: [Nome(s) dos responsáveis pela etapa]
-
 ### 🔹 Stakeholders
-- [ ] Listagem dos stakeholders envolvidos
-- [ ] Perfil/responsabilidades
+
+### Clientes
+- **Empresas do ramo varejista**: Anunciam seus estoques no site/app.  
+- **Marcas**: Exibem propagandas nas telas do site/app.  
+
+### Usuários
+- **Clientes finais**: Pessoas que utilizam o site/app para comparação de preços.  
+
+### Ambiente Interno
+- **Equipe de moderação e manutenção** do site/app  
+- **Suporte**  
+- **Vendas**  
+- **Marketing**  
+- **Programadores**  
+
+### Ambiente Externo
+- **Servidor externo**  
+- **Coleta de preços**  
+
+### Macroambiente
+- **Cultura local**  
+- **Fatores monetários dos usuários**
+
+
 
 **Contribuições:**
 - **Fulano:** [coloque aqui o que você encontrou sobre stakeholders]
@@ -36,50 +54,128 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
-### 🔹 Necessidades, Dores e Expectativas
-- Descrever os principais pontos identificados
+### 🔹 Necessidades
 
-**Contribuições:**
-- **[Nome]:** ...
+#### Necessidades
+- Equipe de programação robusta para desenvolvimento do sistema.  
+- Equipe de suporte eficiente.  
+- Marketing intensivo para divulgação.  
+
+#### Restrições
+- Limitações técnicas na integração com APIs de supermercados.  
+- Validação obrigatória de dados de preços antes de exibir ao usuário.  
+- Restrições orçamentárias iniciais.  
+
+#### Dificuldades
+- Integração dos preços com os mercados.  
+- Ganhar público-alvo e atrair empresas para anunciar.  
+- Criação do projeto, que é grande e tecnicamente complexo.  
+
+#### Padrões
+- Interface amigável e responsiva.  
+- Processamento rápido de buscas.  
+- Destaque para promoções.  
+
+#### Adaptações
+- Oferecer coleta automática e manual de preços.  
+- Foco em funcionalidades que atendam perfis diversos de usuários.  
+- Iniciar o projeto em uma cidade-piloto (Chapecó) e escalar gradualmente.  
+
+#### Problemas
+- Buscar dados dos fornecedores.  
+- Conseguir APIs que entreguem os produtos.  
+- Alto fluxo de dados.  
+
+#### Relacionamentos
+- Mercados e Marcas.  
+- Usuários finais.  
+- Equipe interna do projeto.
+  
+---
+
+### 💡 Empatia
+
+#### Sentimentos
+- Satisfação  
+- Felicidade  
+- Alegria  
+- Realização  
+
+#### Expectativas
+- Economia  
+- Praticidade  
+- Agilidade  
+
+#### Medos
+- Veracidade das informações  
+- Privacidade dos dados  
+- Complexidade de uso  
+
+#### Tomadas de Decisão
+- Objetiva  
+- Intuitiva  
+- Clara  
+
+#### Aspirações
+- Inovação  
+- Economia  
+- Eficiência  
+
+#### Pensamentos
+- Aproveitamento rápido das ofertas  
+- Foco apenas em preço baixo  
+- Fidelidade a marcas e não a preços  
+
+#### Aspectos Culturais
+- Transparente  
+- Responsável  
+- Organizada
 
 ---
 
 ### 🔹 Matriz CSD (Certezas, Suposições, Dúvidas)
 
-| Certezas | Suposições | Dúvidas |
-|----------|------------|---------|
-|          |            |         |
+| **Categoria**     | **Certezas**                                                                 | **Suposições**                                                                                   | **Dúvidas**                                                             |
+|-------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Problemas**     | Coleta de dados dos mercados.                                                | Quantidade de dados recebidos.                                                                  | Lentidão nos serviços online.                                           |
+| **Oportunidades** | Sistema escalável pode atender vários mercados.                              | Novo projeto que será um sistema **web**.                                                       | Melhor ferramenta a ser usada para desenvolver.                         |
+| **Informações**   | Dados de preços variam diariamente e precisam ser atualizados constantemente. | Consumidores preferem ferramentas digitais (apps/sites) em vez de panfletos físicos.             | Como será feita a coleta de dados (API, scraping, integração manual)?   |
+
 
 ---
 
 ### 🔹 Análise de Contexto (Fatores externos)
 
-- **Sociais:**  
-- **Tecnológicos:**  
-- **Econômicos:**  
-- **Políticos:**  
-- **Legais:**  
+- """"""""" Não Fizemos """"""""""""""""
 
 **Responsável:** [Nome]
 
 ---
 
-### 🔹 Entrevistas / Observações / Design Thinking Game
+### 🔹 Planejamento de Entrevistas
 
-- Metodologia usada
-- Trechos relevantes das entrevistas
-- Resumo das dinâmicas
+#### Candidatos Potenciais
+- Competência técnica para lidar com grande volume de dados, sistemas web e integração de dados.  
+- Capacidade de resolver problemas práticos (lentidão, escalabilidade, performance).  
+- Visão alinhada ao negócio (foco no consumidor que prefere soluções digitais).  
+- Flexibilidade para definir melhores ferramentas e arquiteturas.  
 
-**Responsável:** [Nome]  
-**Data das atividades:** [Datas]
+#### Perfil de Candidatos
+- **Desenvolvedores web** (backend/frontend).  
+- **Engenheiros de dados** (coleta, processamento e integração).  
+- **Analistas de sistemas/produto** (definição de ferramentas, escalabilidade).  
+
+#### Etapas
+1. **Entrevista exploratória:** experiência geral e motivação.  
+2. **Parte técnica:** perguntas práticas + desafio pequeno - Exemplo: projetar o fluxo de coleta de preços.
 
 ---
 
 ## 2) Definição & Síntese
 
-> Responsável: Maikel R. Marquardt
+> Responsáveis: [Nome(s)]
 
-### ✅ Personas
+### 🔹 Personas
 
 - [Inserir personas com imagens ou descrições]
 
@@ -110,7 +206,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
-### ✅ Requisitos
+### 🔹 Requisitos
 
 - Funcionais:
   - [ ]
