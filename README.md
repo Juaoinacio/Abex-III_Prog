@@ -254,25 +254,20 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ### 🔹 Modelos Conceituais
 
-- Diagramas UML, fluxos, BPMN, etc.
+- ✅ Diagramas de classe e caso de uso - Arquivos anexados no diretório FILES 
 
 ---
 
 ### 🔹 Protótipos Visuais
 
-- Wireframes / Mockups / Storyboards
+- https://www.figma.com/design/OePYRThO55mBsJYwC0fVQm/Trabalho-de-ABEX---No-precinho?node-id=0-1&t=IYXmA9EbveALdhYg-1
 
 ---
 
 ### 🔹 Modelo Lógico
 
-- [Ex.: Estrutura de banco de dados, arquitetura de sistema, fluxogramas de processo]
+- "Em produção / refatoramento"
 
----
-
-### 🔹 Validação Inicial
-
-- Canvas / Simulações com hipóteses e verificações
 
 ---
 
