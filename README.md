@@ -250,7 +250,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ## 4) Prototipação
 
-> Responsáveis: [Nome(s)]
+> Responsáveis: [Joao inacio]
 
 ### 🔹 Modelos Conceituais
 
@@ -260,7 +260,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ### 🔹 Protótipos Visuais
 
-- https://www.figma.com/design/OePYRThO55mBsJYwC0fVQm/Trabalho-de-ABEX---No-precinho?node-id=0-1&t=IYXmA9EbveALdhYg-1
+- ✅ https://www.figma.com/design/OePYRThO55mBsJYwC0fVQm/Trabalho-de-ABEX---No-precinho?node-id=0-1&t=IYXmA9EbveALdhYg-1
 
 ---
 
