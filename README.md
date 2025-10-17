@@ -175,38 +175,38 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 > Responsável: Maikel Ruan Marquardt
 
-### ✅ Personas
+### ✅ Personas - Arquivos anexados no diretório FILES
 
 - [Inserir personas com imagens ou descrições]
 
 ---
 
-### ✅ Jornada do Usuário
+### ✅ Jornada do Usuário - Arquivos anexados no diretório FILES
 
 - [Fluxos, mapas de jornada, experiências do usuário]
 
 ---
 
-### ✅ Agrupamento de Dados (Affinity Map, etc.)
+### ✅ Agrupamento de Dados (Affinity Map, etc.) - Arquivos anexados no diretório FILES
 
 - Técnicas de categorização aplicadas
 - Evidências de agrupamento
 
 ---
 
-### ✅ Insights Principais
+### ✅ Insights Principais - Arquivos anexados no diretório FILES
 
 - [Listar os principais aprendizados da imersão]
 
 ---
 
-### ✅ Definição do Problema
+### ✅ Definição do Problema - Arquivos anexados no diretório FILES
 
 > Formato: **"Como podemos [ajudar quem] a [fazer o quê] de forma [como]?"**
 
 ---
 
-### ✅ Requisitos
+### ✅ Requisitos - Arquivos anexados no diretório FILES
 
 - Funcionais:
   - [ ]
