@@ -266,8 +266,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ### 🔹 Modelo Lógico
 
-- "Em produção / refatoramento"
-
+- ✅ Modelo de banco de dados - Arquivo anexados no diretório FILES
 
 ---
 
