@@ -248,7 +248,7 @@ As ideias surgiram a partir de um **brainstorming colaborativo**, utilizando **m
 - O usuário quer **sentir que ganha algo** ao usar o app.
 - **Sistemas de pontos e recompensas** aumentam o engajamento.
 - **Personalização de notificações** evita incômodos e aumenta relevância.
-- A **jornada do usuário é cíclica:** ele descobre, testa, compara e retorna.
+- A **jornada do usuário é cíclica:** ele descobre, teste e retorna.
 - Os **requisitos funcionais** devem refletir as **dores reais** mapeadas.
 
 ---
