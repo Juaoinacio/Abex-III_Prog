@@ -217,34 +217,96 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
-## 3) Ideação
+## 🧩 Etapa 3 — Ideação
 
-> Responsáveis: [Nome(s)]
-
-### 🔹 Brainstorming
-
-- Técnica utilizada: [ex: 6-3-5, mapa mental, etc.]
-- Mapa de ideias / registros visuais
+Nesta etapa, o grupo utilizou os **insights levantados na fase anterior** para gerar ideias inovadoras e viáveis que atendam às **necessidades reais dos usuários**.  
+As ideias surgiram a partir de um **brainstorming colaborativo**, utilizando **mapa mental** para relacionar temas e problemas identificados.
 
 ---
 
-### 🔹 Conexões com Insights
+### 🔹 1. Brainstorming
 
-- Como cada ideia atende aos insights?
+**Técnica utilizada:** Mapa mental + Brainwriting (geração individual e coletiva de ideias).
+
+**Principais insights usados como gatilhos de pensamento:**
+
+- O usuário busca **economia, praticidade e clareza**.
+- Deseja saber **rapidamente onde gastará menos**, sem abrir vários sites.
+- A **confiança** influencia fortemente a decisão de uso.
+- Promoções falsas e preços desatualizados **geram frustração e abandono**.
+- O público é **diverso tecnologicamente** — precisa de uma interface simples.
+- **Economizar é o principal motivador**.
+- O app deve **mostrar quanto o usuário está poupando**.
+- A **comparação de preços em tempo real** é um diferencial competitivo.
+- **Transparência** e **atualização frequente** dos dados são essenciais.
+- A **simplicidade** vence a complexidade — menos etapas, mais fluidez.
+- **Tempo é escasso:** quanto menos toques, melhor.
+- **Login rápido e memorização de preferências** aumentam retenção.
+- Mostrar **data e origem dos preços** aumenta credibilidade.
+- **Avaliações reais** (com provas ou fotos) influenciam decisões.
+- **Clareza nas promoções** é indispensável — regras e prazos visíveis.
+- O usuário quer **sentir que ganha algo** ao usar o app.
+- **Sistemas de pontos e recompensas** aumentam o engajamento.
+- **Personalização de notificações** evita incômodos e aumenta relevância.
+- A **jornada do usuário é cíclica:** ele descobre, testa, compara e retorna.
+- Os **requisitos funcionais** devem refletir as **dores reais** mapeadas.
 
 ---
 
-### 🔹 Avaliação de Ideias
+### 🔹 2. Conexões com Insights
 
-| Ideia | Impacto | Viabilidade | Inovação | Total |
-|-------|---------|-------------|----------|-------|
-|       |         |             |          |       |
+| Tema / Insight Principal | Ideia | Como atende |
+|---------------------------|-------|--------------|
+| **Economia e Tomada de Decisão** | Comparador de preços em tempo real com geolocalização | Permite que o usuário veja onde gastará menos, sem precisar abrir vários sites |
+| **Economia e Tomada de Decisão** | Histórico de economia acumulada | Mostra quanto o usuário já economizou, reforçando percepção de valor |
+| **Praticidade e Usabilidade** | Login social e memorização de preferências | Reduz o esforço do usuário e agiliza o acesso |
+| **Praticidade e Usabilidade** | Interface simples e intuitiva com filtros automáticos | Facilita a navegação e reduz o número de etapas |
+| **Confiança e Transparência** | Exibir data e fonte da atualização de preços | Aumenta a credibilidade e evita promoções falsas |
+| **Confiança e Transparência** | Sistema de verificação automática de promoções | Garante que apenas informações reais sejam exibidas |
+| **Confiança e Transparência** | Avaliações verificadas de usuários | Reforça a autenticidade das informações apresentadas |
+| **Engajamento e Relacionamento** | Sistema de recompensas e pontos | Motiva o uso contínuo e cria sentimento de ganho |
+| **Engajamento e Relacionamento** | Notificações personalizadas | Envia apenas alertas relevantes ao perfil do usuário |
+| **Engajamento e Relacionamento** | Programa de indicações entre usuários | Incentiva o marketing boca a boca e o crescimento orgânico |
 
 ---
 
-### 🔹 Ideias Selecionadas para Prototipação
+### 🔹 3. Avaliação de Ideias
 
-- [Listar as ideias escolhidas com justificativas]
+| Ideia | Impacto | Viabilidade | Inovação | **Total** |
+|-------|----------|--------------|-----------|-----------:|
+| Comparador de preços em tempo real | 5 | 4 | 4 | **13** |
+| Histórico de economia acumulada | 4 | 5 | 4 | **13** |
+| Login social e memorização de preferências | 4 | 5 | 3 | **12** |
+| Interface simples e filtros automáticos | 5 | 4 | 3 | **12** |
+| Verificação automática de promoções | 5 | 3 | 5 | **13** |
+| Exibir data e fonte dos preços | 4 | 5 | 3 | **12** |
+| Avaliações verificadas | 5 | 4 | 4 | **13** |
+| Sistema de recompensas e pontos | 4 | 5 | 4 | **13** |
+| Notificações personalizadas | 4 | 5 | 4 | **13** |
+| Programa de indicações | 3 | 4 | 4 | **11** |
+
+**Critérios de avaliação:**
+- **Impacto:** Quanto a ideia resolve a dor do usuário.
+- **Viabilidade:** Quão fácil é implementar com os recursos disponíveis.
+- **Inovação:** Grau de originalidade e diferencial competitivo.
+
+---
+
+### 🔹 4. Ideias Selecionadas para Prototipação
+
+Após a avaliação, foram escolhidas as ideias com **maior alinhamento estratégico e equilíbrio entre impacto, inovação e viabilidade**:
+
+1. **Comparador de preços em tempo real com geolocalização**  
+   ➜ Responde diretamente aos insights de **economia, praticidade e clareza**, principais motivadores de uso.
+
+2. **Sistema de recompensas e pontos**  
+   ➜ Atende aos insights de **engajamento e relacionamento**, incentivando o retorno constante ao app.
+
+3. **Verificação automática de promoções e exibição da fonte de preços**  
+   ➜ Garante **confiança e transparência**, pilares fundamentais para a credibilidade da plataforma.
+
+4. **Interface simples com login social e personalização de notificações**  
+   ➜ Melhora a **usabilidade**, reduz o esforço do usuário e aumenta a **retenção**.
 
 ---
 
