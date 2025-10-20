@@ -22,7 +22,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ## 1) Imersão & Empatia
 
-### 🔹 Stakeholders
+### ✅ Stakeholders
 
 ### Clientes
 - **Empresas do ramo varejista**: Anunciam seus estoques no site/app.  
@@ -54,7 +54,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
-### 🔹 Necessidades
+### ✅ Necessidades
 
 #### Necessidades
 - Equipe de programação robusta para desenvolvimento do sistema.  
@@ -93,7 +93,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
   
 ---
 
-### 💡 Empatia
+### ✅ Empatia
 
 #### Sentimentos
 - Satisfação  
@@ -133,7 +133,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
-### 🔹 Matriz CSD (Certezas, Suposições, Dúvidas)
+### ✅ Matriz CSD (Certezas, Suposições, Dúvidas)
 
 | **Categoria**     | **Certezas**                                                                 | **Suposições**                                                                                   | **Dúvidas**                                                             |
 |-------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
@@ -152,7 +152,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
-### 🔹 Planejamento de Entrevistas
+### ✅ Planejamento de Entrevistas
 
 #### Candidatos Potenciais
 - Competência técnica para lidar com grande volume de dados, sistemas web e integração de dados.  
@@ -224,7 +224,7 @@ As ideias surgiram a partir de um **brainstorming colaborativo**, utilizando **m
 
 ---
 
-### 🔹 1. Brainstorming
+### ✅ 1. Brainstorming
 
 **Técnica utilizada:** Mapa mental + Brainwriting (geração individual e coletiva de ideias).
 
@@ -253,7 +253,7 @@ As ideias surgiram a partir de um **brainstorming colaborativo**, utilizando **m
 
 ---
 
-### 🔹 2. Conexões com Insights
+### ✅ 2. Conexões com Insights
 
 | Tema / Insight Principal | Ideia | Como atende |
 |---------------------------|-------|--------------|
@@ -270,7 +270,7 @@ As ideias surgiram a partir de um **brainstorming colaborativo**, utilizando **m
 
 ---
 
-### 🔹 3. Avaliação de Ideias
+### ✅ 3. Avaliação de Ideias
 
 | Ideia | Impacto | Viabilidade | Inovação | **Total** |
 |-------|----------|--------------|-----------|-----------:|
@@ -292,7 +292,7 @@ As ideias surgiram a partir de um **brainstorming colaborativo**, utilizando **m
 
 ---
 
-### 🔹 4. Ideias Selecionadas para Prototipação
+### ✅ 4. Ideias Selecionadas para Prototipação
 
 Após a avaliação, foram escolhidas as ideias com **maior alinhamento estratégico e equilíbrio entre impacto, inovação e viabilidade**:
 
