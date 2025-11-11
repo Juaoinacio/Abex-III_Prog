@@ -346,7 +346,7 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 
 ---
 
-### 🔹 Verificação de Requisitos
+### ✅ Verificação de Requisitos
 
 - Tabela de rastreabilidade: requisitos x funcionalidades testadas
 
