@@ -313,7 +313,9 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 
 ### 🔹 Modelos Conceituais
 
-- ✅ Diagramas de classe e caso de uso - Arquivos anexados no diretório FILES 
+- ✅ Diagramas de classe e caso de uso - Arquivos anexados no diretório FILES
+- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/ABEX%20III%20Diagrama%20de%20classes.pdf>
+- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/ABEX%20III%20diagrama%20de%20caso%20de%20uso.pdf>
 
 ---
 
@@ -326,6 +328,7 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 ### 🔹 Modelo Lógico
 
 - ✅ Modelo de banco de dados - Arquivo anexados no diretório FILES
+- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Primeira%20vers%C3%A3o%20do%20banco.png>
 
 ---
 
@@ -348,13 +351,17 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 
 ### 🔹 Feedback Coletado
 
-- Comentários, sugestões, melhorias identificadas
+- Adaptação das personas: Clientes ideais não estavam ajustados de maneira a cumprir o que se espera de alguém que usará o No Precinho
+- Telas contra-intuitivas: As telas confeccionadas não estavam de acordo com o grau de intuitividade esperado de um app/site que atende aos respectivos stakeholders
 
 ---
 
 ### 🔹 Ajustes Realizados
 
-- Lista de melhorias feitas com base no feedback
+- **Lista de melhorias feitas com base no feedback**
+- Ajuste na idade, profissão, renda média e localidade dos clientes ideais de acordo com o objetivo econômico que o No Precinho sugere
+- Ajuste e alterações nas telas: Cores mais claras, botões melhor posicionados, eficiência de navegação
+
 
 ---
 
