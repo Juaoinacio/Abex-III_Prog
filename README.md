@@ -23,6 +23,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 ## 1) Imersão & Empatia
 
 ### ✅ Stakeholders
+- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Exercicio_Parte_I_Template_Design_Thinking.pptx.pdf>
 
 ### Clientes
 - **Empresas do ramo varejista**: Anunciam seus estoques no site/app.  
