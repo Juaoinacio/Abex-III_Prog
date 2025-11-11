@@ -47,12 +47,6 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 - **Cultura local**  
 - **Fatores monetários dos usuários**
 
-
-
-**Contribuições:**
-- **Fulano:** [coloque aqui o que você encontrou sobre stakeholders]
-- **Ciclana:** [outras observações]
-
 ---
 
 ### ✅ Necessidades
@@ -143,13 +137,6 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 | **Informações**   | Dados de preços variam diariamente e precisam ser atualizados constantemente. | Consumidores preferem ferramentas digitais (apps/sites) em vez de panfletos físicos.             | Como será feita a coleta de dados (API, scraping, integração manual)?   |
 
 
----
-
-### 🔹 Análise de Contexto (Fatores externos)
-
-- """"""""" Não Fizemos """"""""""""""""
-
-**Responsável:** [Nome]
 
 ---
 
