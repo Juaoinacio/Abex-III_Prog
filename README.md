@@ -352,14 +352,14 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 
 ---
 
-### 🔹 Feedback Coletado
+### ✅ Feedback Coletado
 
 - Adaptação das personas: Clientes ideais não estavam ajustados de maneira a cumprir o que se espera de alguém que usará o No Precinho
 - Telas contra-intuitivas: As telas confeccionadas não estavam de acordo com o grau de intuitividade esperado de um app/site que atende aos respectivos stakeholders
 
 ---
 
-### 🔹 Ajustes Realizados
+### ✅ Ajustes Realizados
 
 - **Lista de melhorias feitas com base no feedback**
 - Ajuste na idade, profissão, renda média e localidade dos clientes ideais de acordo com o objetivo econômico que o No Precinho sugere
