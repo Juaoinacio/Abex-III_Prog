@@ -176,7 +176,9 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 > Responsável: Maikel Ruan Marquardt
 
 ### ✅ Personas - Arquivos anexados no diretório FILES
-
+<div alling="center">
+  <img src="https://github.com/Juaoinacio/Abex-III_Prog/blob/4a845f56ed0b55a938c99c0b64270b4bfe3aa496/Files/Personas%20Projeto%20no%20Precinho.pdf"/>
+</div>
 - <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Personas%20Projeto%20no%20Precinho.pdf>
 
 ---
