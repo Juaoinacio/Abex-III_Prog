@@ -177,18 +177,19 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ### ✅ Personas - Arquivos anexados no diretório FILES
 
-- [Inserir personas com imagens ou descrições]
+- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Personas%20Projeto%20no%20Precinho.pdf>
 
 ---
 
 ### ✅ Jornada do Usuário - Arquivos anexados no diretório FILES
 
-- [Fluxos, mapas de jornada, experiências do usuário]
+- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Jornada%20do%20Usua%CC%81rio.pdf>
 
 ---
 
 ### ✅ Agrupamento de Dados (Affinity Map, etc.) - Arquivos anexados no diretório FILES
 
+- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Affinity%20map.pdf>
 - Técnicas de categorização aplicadas
 - Evidências de agrupamento
 
@@ -196,25 +197,21 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ### ✅ Insights Principais - Arquivos anexados no diretório FILES
 
-- [Listar os principais aprendizados da imersão]
+- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Insights.pdf>
 
 ---
 
 ### ✅ Definição do Problema - Arquivos anexados no diretório FILES
 
-> Formato: **"Como podemos [ajudar quem] a [fazer o quê] de forma [como]?"**
+- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Definic%CC%A7a%CC%83o%20do%20problema.pdf>
 
 ---
 
 ### ✅ Requisitos - Arquivos anexados no diretório FILES
 
-- Funcionais:
-  - [ ]
-  - [ ]
-- Não Funcionais:
-  - [ ]
-  - [ ]
-
+- Requisitos Funcionais e Não funcionais
+  - <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Requisitos%20Funcionais.pdf>
+  
 ---
 
 ## 🧩 Etapa 3 — Ideação
