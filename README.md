@@ -28,6 +28,10 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
+![MapaStak](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/MapaStakholders.png)
+
+---
+
 ### ✅ Necessidades
 
 #### Necessidades
