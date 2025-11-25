@@ -24,7 +24,7 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ### ✅ Stakeholders
 
-Imagem dos stakeholders
+![Stakeholders](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Stakholders.png)
 
 ---
 
