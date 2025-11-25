@@ -23,29 +23,8 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 ## 1) Imersão & Empatia
 
 ### ✅ Stakeholders
-- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Exercicio_Parte_I_Template_Design_Thinking.pptx.pdf>
 
-### Clientes
-- **Empresas do ramo varejista**: Anunciam seus estoques no site/app.  
-- **Marcas**: Exibem propagandas nas telas do site/app.  
-
-### Usuários
-- **Clientes finais**: Pessoas que utilizam o site/app para comparação de preços.  
-
-### Ambiente Interno
-- **Equipe de moderação e manutenção** do site/app  
-- **Suporte**  
-- **Vendas**  
-- **Marketing**  
-- **Programadores**  
-
-### Ambiente Externo
-- **Servidor externo**  
-- **Coleta de preços**  
-
-### Macroambiente
-- **Cultura local**  
-- **Fatores monetários dos usuários**
+Imagem dos stakeholders
 
 ---
 
