@@ -47,37 +47,6 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
-### ✅ Matriz CSD (Certezas, Suposições, Dúvidas)
-
-| **Categoria**     | **Certezas**                                                                 | **Suposições**                                                                                   | **Dúvidas**                                                             |
-|-------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| **Problemas**     | Coleta de dados dos mercados.                                                | Quantidade de dados recebidos.                                                                  | Lentidão nos serviços online.                                           |
-| **Oportunidades** | Sistema escalável pode atender vários mercados.                              | Novo projeto que será um sistema **web**.                                                       | Melhor ferramenta a ser usada para desenvolver.                         |
-| **Informações**   | Dados de preços variam diariamente e precisam ser atualizados constantemente. | Consumidores preferem ferramentas digitais (apps/sites) em vez de panfletos físicos.             | Como será feita a coleta de dados (API, scraping, integração manual)?   |
-
-
-
----
-
-### ✅ Planejamento de Entrevistas
-
-#### Candidatos Potenciais
-- Competência técnica para lidar com grande volume de dados, sistemas web e integração de dados.  
-- Capacidade de resolver problemas práticos (lentidão, escalabilidade, performance).  
-- Visão alinhada ao negócio (foco no consumidor que prefere soluções digitais).  
-- Flexibilidade para definir melhores ferramentas e arquiteturas.  
-
-#### Perfil de Candidatos
-- **Desenvolvedores web** (backend/frontend).  
-- **Engenheiros de dados** (coleta, processamento e integração).  
-- **Analistas de sistemas/produto** (definição de ferramentas, escalabilidade).  
-
-#### Etapas
-1. **Entrevista exploratória:** experiência geral e motivação.  
-2. **Parte técnica:** perguntas práticas + desafio pequeno - Exemplo: projetar o fluxo de coleta de preços.
-
----
-
 ## 2) Definição & Síntese - Todos os Arquivos anexados no diretório FILES
 
 > Responsável: Maikel Ruan Marquardt
