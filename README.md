@@ -22,8 +22,6 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ## 1) Imersão & Empatia
 
-### ✅ Stakeholders
-
 ![Stakeholders](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Stakholders.png)
 
 ---
@@ -32,82 +30,20 @@ As etapas estão descritas abaixo com subtópicos para facilitar a contribuiçã
 
 ---
 
-### ✅ Necessidades
+![Observação](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Observa%C3%A7%C3%B5es.png)
 
-#### Necessidades
-- Equipe de programação robusta para desenvolvimento do sistema.  
-- Equipe de suporte eficiente.  
-- Marketing intensivo para divulgação.  
-
-#### Restrições
-- Limitações técnicas na integração com APIs de supermercados.  
-- Validação obrigatória de dados de preços antes de exibir ao usuário.  
-- Restrições orçamentárias iniciais.  
-
-#### Dificuldades
-- Integração dos preços com os mercados.  
-- Ganhar público-alvo e atrair empresas para anunciar.  
-- Criação do projeto, que é grande e tecnicamente complexo.  
-
-#### Padrões
-- Interface amigável e responsiva.  
-- Processamento rápido de buscas.  
-- Destaque para promoções.  
-
-#### Adaptações
-- Oferecer coleta automática e manual de preços.  
-- Foco em funcionalidades que atendam perfis diversos de usuários.  
-- Iniciar o projeto em uma cidade-piloto (Chapecó) e escalar gradualmente.  
-
-#### Problemas
-- Buscar dados dos fornecedores.  
-- Conseguir APIs que entreguem os produtos.  
-- Alto fluxo de dados.  
-
-#### Relacionamentos
-- Mercados e Marcas.  
-- Usuários finais.  
-- Equipe interna do projeto.
-  
 ---
 
-### ✅ Empatia
+![Empatia](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Empatia.png)
 
-#### Sentimentos
-- Satisfação  
-- Felicidade  
-- Alegria  
-- Realização  
+---
+# ✅ Matriz CSD
 
-#### Expectativas
-- Economia  
-- Praticidade  
-- Agilidade  
+![Matriz](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Matriz.png)
 
-#### Medos
-- Veracidade das informações  
-- Privacidade dos dados  
-- Complexidade de uso  
+---
 
-#### Tomadas de Decisão
-- Objetiva  
-- Intuitiva  
-- Clara  
-
-#### Aspirações
-- Inovação  
-- Economia  
-- Eficiência  
-
-#### Pensamentos
-- Aproveitamento rápido das ofertas  
-- Foco apenas em preço baixo  
-- Fidelidade a marcas e não a preços  
-
-#### Aspectos Culturais
-- Transparente  
-- Responsável  
-- Organizada
+![Entrvista](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Entrvista.png)
 
 ---
 
