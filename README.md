@@ -1,7 +1,11 @@
 # 🧠 Projeto ABEX III — Design Thinking
 
-> **Objetivo:** Este repositório documenta o processo de Design Thinking realizado para o projeto ABEX III.  
-> A estrutura segue o roteiro proposto pelo professor e será preenchida colaborativamente por todos os integrantes.
+## 🎯 Objetivo  
+Este repositório documenta todo o processo de **Design Thinking** realizado para o cliente **ABEX III**, focando na compreensão profunda das necessidades reais dos usuários.  
+O objetivo não é apresentar código, mas sim entender as pessoas envolvidas, seus desafios, expectativas e o contexto em que a solução será utilizada.
+
+## 📌 Visão Geral  
+O projeto é voltado para **stakeholders** e demais participantes interessados no processo de criação centrado no usuário. Aqui serão registrados:
 
 ---
 
@@ -11,12 +15,6 @@
 | João Inacio Fussieger Izaias   | Responsável pelo         |
 | Maikel Ruan Marquardt          | Responsável pelo  |
 | Gustavo Henrique Caxambú       | Responsável pelo          |
-
----
-
-# ✅ Checklist do Processo de Design Thinking
-
-As etapas estão descritas abaixo com subtópicos para facilitar a contribuição individual de cada membro da equipe.
 
 ---
 
