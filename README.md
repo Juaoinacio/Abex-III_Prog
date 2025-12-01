@@ -45,34 +45,21 @@ O projeto é voltado para **stakeholders** e demais participantes interessados n
 
 ---
 
-## 2) Definição & Síntese - Todos os Arquivos anexados no diretório FILES
+## 2) Definição & Síntese
 
 > Responsável: Maikel Ruan Marquardt
 
 ### ✅ Personas - Arquivos anexados no diretório FILES
 
-![Carlos](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Rafael.png)
+![Rafael](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Rafael.png)
 
+![Maria](https://github.com/Juaoinacio/Abex-III_Prog/blob/f08b215e73e1bf362a7859d84f60833d79139c41/Files/Personas%3A%20Maria.png)
 
-<div alling="center">
-  <img src="[https://github.com/Juaoinacio/Abex-III_Prog/blob/4a845f56ed0b55a938c99c0b64270b4bfe3aa496/Files/Personas%20Projeto%20no%20Precinho.pdf](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Carlos.png)"/>
-</div>
+![Joao](https://github.com/Juaoinacio/Abex-III_Prog/blob/f08b215e73e1bf362a7859d84f60833d79139c41/Files/Personas%3A%20Joao.png)
 
-<div alling="center">
-  <img src="[[https://github.com/Juaoinacio/Abex-III_Prog/blob/4a845f56ed0b55a938c99c0b64270b4bfe3aa496/Files/Personas%20Projeto%20no%20Precinho.pdf](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Carlos.png](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Dona%20Lucia.png))"/>
-</div>
+![DonaLucia](https://github.com/Juaoinacio/Abex-III_Prog/blob/f08b215e73e1bf362a7859d84f60833d79139c41/Files/Personas%3A%20Dona%20Lucia.png)
 
-<div alling="center">
-  <img src="[[https://github.com/Juaoinacio/Abex-III_Prog/blob/4a845f56ed0b55a938c99c0b64270b4bfe3aa496/Files/Personas%20Projeto%20no%20Precinho.pdf](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Carlos.png](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Joao.png))"/>
-</div>
-
-<div alling="center">
-  <img src="[[https://github.com/Juaoinacio/Abex-III_Prog/blob/4a845f56ed0b55a938c99c0b64270b4bfe3aa496/Files/Personas%20Projeto%20no%20Precinho.pdf](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Carlos.png](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Maria.png))"/>
-</div>
-
-<div alling="center">
-  <img src="[[https://github.com/Juaoinacio/Abex-III_Prog/blob/4a845f56ed0b55a938c99c0b64270b4bfe3aa496/Files/Personas%20Projeto%20no%20Precinho.pdf](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Carlos.png](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Rafael.png))"/>
-</div>
+![Carlos](https://github.com/Juaoinacio/Abex-III_Prog/blob/f08b215e73e1bf362a7859d84f60833d79139c41/Files/Personas%3A%20Carlos.png)
 
 ---
 
