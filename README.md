@@ -86,7 +86,153 @@ O projeto é voltado para **stakeholders** e demais participantes interessados n
 ### ✅ Requisitos - Arquivos anexados no diretório FILES
 
 - Requisitos Funcionais e Não funcionais
-  - <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Requisitos%20Funcionais.pdf>
+  
+  REQUISITOS FUNCIONAIS
+  
+1. Cadastro de Usuário: O sistema deve permitir que o usuário crie e gerencie uma
+conta pessoal (com nome, e-mail, senha e localização).
+
+2. Login e Autenticação: O sistema deve permitir acesso seguro via login
+(e-mail/senha) e opções de recuperação de senha.
+
+3. Pesquisa de Produtos: O sistema deve possibilitar a busca por produtos
+específicos utilizando nome, categoria ou marca.
+
+4. Comparação de Preços: O sistema deve exibir os preços do mesmo produto em
+diferentes mercados e atacarejos.
+
+5. Filtragem por Localização: O sistema deve permitir que os usuários filtrem
+resultados de preços com base em sua localização (raio de distância
+configurável).
+
+6. Avaliação de Custo-Benefício: O sistema deve gerar relatórios comparativos de
+custo-benefício para um carrinho de compras definido pelo usuário.
+
+7. Exibição de Promoções e Ofertas: O sistema deve apresentar promoções e
+descontos destacados de cada estabelecimento parceiro.
+
+8. Integração com Mercados e Atacarejos: O sistema deve integrar-se com os
+bancos de dados dos estabelecimentos para atualização automática dos preços.
+
+9. Atualização em Tempo Real: O sistema deve atualizar a lista de preços e
+promoções em tempo real ou em intervalos regulares configurados.
+
+10. Avaliação de Estabelecimentos: O sistema deve permitir que os usuários avaliem
+e comentem sobre os mercados/atacarejos.
+
+11. Exibição de Horários de Movimento: O sistema deve apresentar informações
+sobre os horários de maior e menor movimento em cada estabelecimento.
+
+12. Carrinho de Compras Simulado: O sistema deve permitir que o usuário monte
+um carrinho de compras e veja em qual mercado ele sairá mais barato.
+
+13. Intermediação de Delivery: O sistema deve possibilitar que os usuários solicitem
+delivery diretamente pelo estabelecimento ou via integração com apps de
+entrega.
+
+14. Publicidade Direcionada: O sistema deve exibir anúncios de marcas parceiras
+dentro do site/app de forma personalizada.
+
+15. Plano Premium para Estabelecimentos: O sistema deve oferecer opções para
+mercados anunciarem com maior destaque suas ofertas.
+
+REQUISITOS NÃO FUNCIONAIS
+
+1. Disponibilidade: O sistema deve estar disponível 24 horas por dia, 7 dias por
+semana, com uptime mínimo de 99%.
+
+2. Escalabilidade: O sistema deve ser capaz de suportar o crescimento de usuários
+e integrações com novos mercados sem perda de desempenho.
+
+3. Performance: As consultas de preços devem retornar resultados em menos de 3
+segundos em 95% dos casos.
+
+4. Confiabilidade: O sistema deve assegurar consistência das informações de
+preços, mesmo em caso de falhas de integração.
+
+5. Segurança de Dados: Todos os dados pessoais e transações devem ser protegidos
+conforme LGPD (Lei Geral de Proteção de Dados).
+
+6. Criptografia: Informações sensíveis (senhas, dados de pagamento, tokens de
+integração) devem ser armazenadas e transmitidas com criptografia AES ou
+equivalente.
+
+7. Compatibilidade Multiplataforma: O sistema deve funcionar em navegadores
+web e em aplicativos móveis para Android e iOS.
+
+8. Usabilidade: A interface deve ser simples, intuitiva e otimizada para usuários
+com diferentes níveis de experiência digital.
+
+9. Acessibilidade: O sistema deve seguir padrões de acessibilidade (WCAG 2.1),
+incluindo contraste adequado, navegação por teclado e leitores de tela.
+
+10. Manutenibilidade: O código deve ser modular e documentado, permitindo fácil
+atualização e correção.
+
+11. Testabilidade: O sistema deve possuir casos de teste automatizados cobrindo
+pelo menos 80% das funcionalidades críticas.
+
+12. Confiabilidade de Integrações: As integrações com sistemas de mercados devem
+ter mecanismos de fallback para manter dados acessíveis mesmo quando houver
+falha de conexão.
+
+13. Capacidade de Armazenamento: O sistema deve suportar o armazenamento de
+grandes volumes de dados de preços e promoções, com mecanismos de
+arquivamento periódico.
+
+14. Monitoramento: O sistema deve possuir ferramentas de monitoramento em
+tempo real para detecção de falhas, erros e quedas de desempenho.
+28. Tempo de Recuperação: Em caso de falha grave, o sistema deve ser restaurado
+em até 4 horas após a interrupção.
+
+REGRAS DE NEGÓCIO
+
+1. Fonte oficial de preços: Apenas preços obtidos de estabelecimentos parceiros ou
+de fontes verificadas podem ser exibidos na plataforma.
+
+2. Atualização de preços: Todos os preços devem ser atualizados no máximo a cada
+24 horas, garantindo a confiabilidade da comparação.
+   
+3. Validação de promoções: As promoções exibidas devem ser acompanhadas de
+data de validade e condições de uso (ex.: limite por cliente, quantidade mínima).
+
+4. Exibição imparcial: Os resultados da comparação devem priorizar o menor preço
+real e não podem ser manipulados, exceto nos casos de anúncios pagos
+claramente identificados.
+
+5. Publicidade destacada: Anúncios de parceiros (plano premium) devem ser
+exibidos em área específica e sempre com identificação de "patrocinado".
+
+6. Cadastro único: Cada usuário pode ter apenas um cadastro ativo por CPF ou
+e-mail válido.
+
+7. Segurança de avaliações: Avaliações e comentários sobre estabelecimentos só
+podem ser feitos por usuários autenticados.
+
+8. Regra de localização: O sistema só deve exibir mercados dentro de um raio
+máximo configurável (ex.: 50 km do endereço do usuário).
+
+9. Intermediação de delivery: O No Precinho não é responsável pela entrega,
+apenas pela intermediação com os apps/mercados parceiros.
+
+10. Proteção de dados: Nenhuma informação pessoal do usuário pode ser vendida a
+terceiros sem consentimento expresso, em conformidade com a LGPD.
+
+11. Critério de ranking: O ranking de estabelecimentos deve ser baseado em
+combinação de preço, avaliações de usuários e disponibilidade de produtos.
+
+12. Planos de parceiros: Somente estabelecimentos que aderirem ao plano premium
+podem destacar ofertas e promoções com maior visibilidade.
+
+13. Histórico de preços: O sistema deve manter um histórico mínimo de 30 dias de
+preços para consultas e análises.
+
+14. Bloqueio de fraudes: Estabelecimentos que enviarem preços falsos ou
+manipulados poderão ter sua conta suspensa.
+
+15. Política de cancelamento: Usuários e estabelecimentos devem poder solicitar o
+cancelamento de suas contas a qualquer momento, respeitando o armazenamento
+legal de dados.
   
 ---
 
