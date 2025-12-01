@@ -59,8 +59,8 @@ O projeto é voltado para **stakeholders** e demais participantes interessados n
 
 ### ✅ Jornada do Usuário - Arquivos anexados no diretório FILES
 
-- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Jornada%20do%20Usua%CC%81rio.pdf>
-
+![Jornada do usuário](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/jornada%20de%20trabalho.png)
+![Experiências](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/experi%C3%AAncias%20de%20usu%C3%A1rio.png)
 ---
 
 ### ✅ Agrupamento de Dados (Affinity Map, etc.) - Arquivos anexados no diretório FILES
