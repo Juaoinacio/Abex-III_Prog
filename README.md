@@ -10,11 +10,11 @@ O projeto é voltado para **stakeholders** e demais participantes interessados n
 ---
 
 ## 👥 Equipe
-| Nome                           | Função / Papel                   |
-|--------------------------------|---------------------------------|
-| João Inacio Fussieger Izaias   | Responsável pelo         |
-| Maikel Ruan Marquardt          | Responsável pelo  |
-| Gustavo Henrique Caxambú       | Responsável pelo          |
+| Nome                           |
+|--------------------------------|
+| João Inacio Fussieger Izaias   |
+| Maikel Ruan Marquardt          |
+| Gustavo Henrique Caxambú       | 
 
 ---
 
