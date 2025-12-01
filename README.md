@@ -406,23 +406,6 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 
 ---
 
-### 🔹 Changelog
-
-| Data       | Alteração                     | Autor         |
-|------------|-------------------------------|---------------|
-| 2025-10-08 | Criação da estrutura inicial  | Fulano        |
-|            |                               |               |
-
----
-
-## 📎 Anexos
-
-- Links úteis
-- Referências
-- Documentos utilizados
-
----
-
 ## 🗂️ Organização dos Arquivos
 
 ```bash
