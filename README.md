@@ -51,9 +51,24 @@ O projeto é voltado para **stakeholders** e demais participantes interessados n
 
 ### ✅ Personas - Arquivos anexados no diretório FILES
 <div alling="center">
-  <img src="https://github.com/Juaoinacio/Abex-III_Prog/blob/4a845f56ed0b55a938c99c0b64270b4bfe3aa496/Files/Personas%20Projeto%20no%20Precinho.pdf"/>
+  <img src="[https://github.com/Juaoinacio/Abex-III_Prog/blob/4a845f56ed0b55a938c99c0b64270b4bfe3aa496/Files/Personas%20Projeto%20no%20Precinho.pdf](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Carlos.png)"/>
 </div>
-- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Personas%20Projeto%20no%20Precinho.pdf>
+
+<div alling="center">
+  <img src="[[https://github.com/Juaoinacio/Abex-III_Prog/blob/4a845f56ed0b55a938c99c0b64270b4bfe3aa496/Files/Personas%20Projeto%20no%20Precinho.pdf](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Carlos.png](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Dona%20Lucia.png))"/>
+</div>
+
+<div alling="center">
+  <img src="[[https://github.com/Juaoinacio/Abex-III_Prog/blob/4a845f56ed0b55a938c99c0b64270b4bfe3aa496/Files/Personas%20Projeto%20no%20Precinho.pdf](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Carlos.png](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Joao.png))"/>
+</div>
+
+<div alling="center">
+  <img src="[[https://github.com/Juaoinacio/Abex-III_Prog/blob/4a845f56ed0b55a938c99c0b64270b4bfe3aa496/Files/Personas%20Projeto%20no%20Precinho.pdf](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Carlos.png](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Maria.png))"/>
+</div>
+
+<div alling="center">
+  <img src="[[https://github.com/Juaoinacio/Abex-III_Prog/blob/4a845f56ed0b55a938c99c0b64270b4bfe3aa496/Files/Personas%20Projeto%20no%20Precinho.pdf](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Carlos.png](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Rafael.png))"/>
+</div>
 
 ---
 
