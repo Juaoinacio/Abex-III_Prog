@@ -203,8 +203,7 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 
 ### 🔹 Modelo Lógico
 
-- ✅ Modelo de banco de dados - Arquivo anexados no diretório FILES
-- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Primeira%20vers%C3%A3o%20do%20banco.png>
+![Modelo lógico](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/modelo%20do%20banco.png)
 
 ---
 
