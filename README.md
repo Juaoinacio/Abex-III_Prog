@@ -51,7 +51,7 @@ O projeto é voltado para **stakeholders** e demais participantes interessados n
 
 ### ✅ Personas - Arquivos anexados no diretório FILES
 
-![Carlos](https://github.com/Juaoinacio/Abex-III_Prog/blob/4a845f56ed0b55a938c99c0b64270b4bfe3aa496/Files/Personas%20Projeto%20no%20Precinho.pdf](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Carlos.png)
+![Carlos](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Rafael.png)
 
 
 <div alling="center">
