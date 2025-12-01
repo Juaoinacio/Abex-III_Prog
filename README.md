@@ -75,7 +75,7 @@ O projeto é voltado para **stakeholders** e demais participantes interessados n
 
 | Imagem 1 | Imagem 2 |
 |---------|----------|
-| ![]([imagem1.png](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Insights%20p1.png)) | ![]([imagem2.png](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Insights%20p2.png)) |
+| ![imagem1.png](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Insights%20p1.png) | ![imagem2.png](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Insights%20p2.png) |
 
 ---
 
