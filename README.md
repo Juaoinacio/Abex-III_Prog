@@ -79,7 +79,7 @@ O projeto é voltado para **stakeholders** e demais participantes interessados n
 
 ### ✅ Definição do Problema - Arquivos anexados no diretório FILES
 
-- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Definic%CC%A7a%CC%83o%20do%20problema.pdf>
+- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Defini%C3%A7%C3%A3o%20do%20problema.png>
 
 ---
 
