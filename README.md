@@ -65,7 +65,8 @@ O projeto é voltado para **stakeholders** e demais participantes interessados n
 
 ### ✅ Agrupamento de Dados (Affinity Map, etc.) - Arquivos anexados no diretório FILES
 
-- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Affinity%20map.pdf>
+![Mapa de afinidade](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/mapa%20de%20afinidade%201.png)
+![Oportunidades](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/mapa%20de%20afinidade%202.png)
 - Técnicas de categorização aplicadas
 - Evidências de agrupamento
 
