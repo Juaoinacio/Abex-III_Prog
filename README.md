@@ -1,7 +1,7 @@
 # 🧠 Projeto ABEX III — Design Thinking
 
 ## 🎯 Objetivo  
-Este repositório documenta todo o processo de **Design Thinking** realizado para o cliente **ABEX III**, focando na compreensão profunda das necessidades reais dos usuários.  
+Este repositório documenta todo o processo de **Design Thinking** realizado para o cliente, focando na compreensão profunda das necessidades reais dos usuários.  
 O objetivo não é apresentar código, mas sim entender as pessoas envolvidas, seus desafios, expectativas e o contexto em que a solução será utilizada.
 
 ## 📌 Visão Geral  
