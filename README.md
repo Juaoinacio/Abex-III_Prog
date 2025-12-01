@@ -189,9 +189,8 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 
 ### 🔹 Modelos Conceituais
 
-- ✅ Diagramas de classe e caso de uso - Arquivos anexados no diretório FILES
-- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/ABEX%20III%20Diagrama%20de%20classes.pdf>
-- <https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/ABEX%20III%20diagrama%20de%20caso%20de%20uso.pdf>
+![Diangrama de classe](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Diagrama%20de%20classes.png)
+![Diagama de caso de uso](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Diagrama%20de%20caso%20de%20uso.png)
 
 ---
 
