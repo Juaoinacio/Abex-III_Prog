@@ -340,9 +340,21 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 > Responsáveis: [Joao inacio]
 
 ### 🔹 Modelos Conceituais
+![Diagama de caso de uso](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Diagrama%20de%20caso%20de%20uso.png)
 
 ![Diangrama de classe](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Diagrama%20de%20classes.png)
-![Diagama de caso de uso](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Diagrama%20de%20caso%20de%20uso.png)
+
+![Strategy]()
+
+![Observer]()
+
+![Diangrama de implantação]()
+
+![Propaganda]()
+
+![Avaliação](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Avalia%C3%A7%C3%A3o_certa.png)
+
+![Movimento](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Movimentos.png)
 
 ---
 
