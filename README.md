@@ -47,8 +47,6 @@ O projeto é voltado para **stakeholders** e demais participantes interessados n
 
 ## 2) Definição & Síntese
 
-> Responsável: Maikel Ruan Marquardt
-
 ### ✅ Personas - Arquivos anexados no diretório FILES
 
 ![Rafael](https://github.com/Juaoinacio/Abex-III_Prog/blob/ba8758ed2acb77f7dbdb12b13b92694b802339ae/Files/Personas%3A%20Rafael.png)
@@ -337,8 +335,6 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 
 ## 4) Prototipação
 
-> Responsáveis: [Joao inacio]
-
 ### 🔹 Modelos Conceituais
 ![Diagama de caso de uso](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Diagrama%20de%20caso%20de%20uso.png)
 
@@ -372,8 +368,6 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 
 ## 5) Testes & Validação
 
-> Responsáveis: [Nome(s)]
-
 ### 🔹 Planejamento de Testes
 
 - Roteiro de testes
@@ -405,8 +399,6 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 
 ## 6) Pitch / Entrega
 
-> Responsáveis: [Nome(s)]
-
 ### 🔹 Estrutura do Pitch
 
 - Problema
@@ -414,25 +406,4 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 - Diferenciais
 - Impacto gerado
 
----
 
-### 🔹 Evidências e Anexos
-
-- Diagramas
-- Protótipos
-- Prints, vídeos, apresentações
-
----
-
-## 🗂️ Organização dos Arquivos
-
-```bash
-📁 abex-iii-projeto/
-├── README.md
-├── /docs
-│   ├── entrevistas/
-│   ├── personas/
-│   ├── prototipos/
-│   ├── testes/
-│   └── pitch/
-└── changelog.md
