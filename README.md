@@ -344,13 +344,13 @@ Após a avaliação, foram escolhidas as ideias com **maior alinhamento estraté
 
 ![Diangrama de classe](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Diagrama%20de%20classes.png)
 
-![Strategy]()
+![Strategy](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Strategy.png)
 
-![Observer]()
+![Observer](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Observer.png)
 
-![Diangrama de implantação]()
+![Diangrama de implantação](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Diagrama%20de%20Implanta%C3%A7%C3%A3o.png)
 
-![Propaganda]()
+![Propaganda](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Propaganda_certa.png)
 
 ![Avaliação](https://github.com/Juaoinacio/Abex-III_Prog/blob/main/Files/Avalia%C3%A7%C3%A3o_certa.png)
 
